@@ -1,1 +1,1 @@
-All info from wiki =0
+All info from the wiki =0
